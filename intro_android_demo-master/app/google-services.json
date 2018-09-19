@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606654695963",
+    "firebase_url": "https://intro-android-demo-master.firebaseio.com",
+    "project_id": "intro-android-demo-master",
+    "storage_bucket": "intro-android-demo-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606654695963:android:525caef00d04e602",
+        "android_client_info": {
+          "package_name": "codepath.apps.demointroandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606654695963-q8n9tng8g9hn7ocqs89t2s4neslg4v05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1kD-UayuxqJGsGc4Ny6PO4q3euwJlj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
