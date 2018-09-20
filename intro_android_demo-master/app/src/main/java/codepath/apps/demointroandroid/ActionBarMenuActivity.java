@@ -20,8 +20,8 @@ public class ActionBarMenuActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_action_bar_menu);
 		getActionBar().setTitle("Click an Icon");
-		//PushNotifications.start(getApplicationContext(), "e68b3ab5-e4a5-4a8b-a2c7-ca3c00c75d98");
-		//PushNotifications.subscribe("hello");
+		PushNotifications.start(getApplicationContext(), "e68b3ab5-e4a5-4a8b-a2c7-ca3c00c75d98");
+		PushNotifications.subscribe("hello");
 	}
 
 	@Override
